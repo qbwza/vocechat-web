@@ -1,7 +1,7 @@
 {
   "name": "vocechat-web",
   "version": "0.3.62",
-  "homepage": "https://voce.chat",
+  "homepage": "qyq.qiaoyuqiang.cc",
   "dependencies": {
     "@emoji-mart/react": "^1.1.1",
     "@metamask/onboarding": "^1.0.1",
